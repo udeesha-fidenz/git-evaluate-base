@@ -1,0 +1,2 @@
+git fetch -is getting the updates from one specific remote
+git fetch --all - is getting updates from all the remotes

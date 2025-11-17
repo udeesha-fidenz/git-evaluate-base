@@ -1,0 +1,6 @@
+git fetch -is getting the updates from one specific remote
+git fetch --all - is getting updates from all the remotes
+git branch -m <old-branch> <new-branch>
+
+git stash push -m "message for the stash"
+git checkout --orphan prev_branch

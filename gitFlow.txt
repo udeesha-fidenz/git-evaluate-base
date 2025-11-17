@@ -1,0 +1,6 @@
+git flow init
+git flow feature start <Feature name>
+git flow feature finish <Feature name>
+git flow feature publish <Feature name>
+git flow feature pull <remote> <feature-name>
+git flow release start
